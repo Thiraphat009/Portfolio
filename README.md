@@ -8,8 +8,8 @@ A clean, responsive personal website to showcase my projects, skills, and contac
 ## 🌐 Demo
 🔗 https://thiraphat009.github.io/Portfolio/indx.html
 
-![Screenshot](<img width="1440" height="772" alt="image" src="https://github.com/user-attachments/assets/75f61967-ca1f-466c-90cc-316533c15cee" />
-)
+<img width="1440" height="772" alt="image" src="https://github.com/user-attachments/assets/75f61967-ca1f-466c-90cc-316533c15cee" />
+
 
 ## ✨ Features
 - Responsive Design (Mobile Friendly)
